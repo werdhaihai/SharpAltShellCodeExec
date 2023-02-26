@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumFontsW", "EnumFontsW\EnumFontsW.csproj", "{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Debug|x64.ActiveCfg = Debug|x64
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Debug|x64.Build.0 = Debug|x64
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Release|x64.ActiveCfg = Release|x64
+		{FE40FAB9-ECDA-4EE6-B696-3D4D10FB830B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4183982D-CE97-442D-9452-63C0273802E7}
+	EndGlobalSection
+EndGlobal

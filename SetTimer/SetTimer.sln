@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetTimer", "SetTimer\SetTimer.csproj", "{E7C28702-F2CF-45DE-87E6-6C1497533769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Debug|x64.ActiveCfg = Debug|x64
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Debug|x64.Build.0 = Debug|x64
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Release|x64.ActiveCfg = Release|x64
+		{E7C28702-F2CF-45DE-87E6-6C1497533769}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610FB576-6FF9-4BE7-B5A7-E6F0BF56CD0F}
+	EndGlobalSection
+EndGlobal

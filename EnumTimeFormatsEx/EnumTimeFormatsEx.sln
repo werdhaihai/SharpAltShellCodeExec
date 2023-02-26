@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumTimeFormatsEx", "EnumTimeFormatsEx\EnumTimeFormatsEx.csproj", "{07B246A4-2451-409B-8BF3-29B0BBDDACCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Debug|x64.ActiveCfg = Debug|x64
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Debug|x64.Build.0 = Debug|x64
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Release|x64.ActiveCfg = Release|x64
+		{07B246A4-2451-409B-8BF3-29B0BBDDACCE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09F7A3A-6B79-45CC-8D38-4E6C35862670}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumSystemLanguageGroupsW", "EnumSystemLanguageGroupsW\EnumSystemLanguageGroupsW.csproj", "{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Debug|x64.ActiveCfg = Debug|x64
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Debug|x64.Build.0 = Debug|x64
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Release|x64.ActiveCfg = Release|x64
+		{98C2DC0B-6431-492B-A4BD-2D26A1D1C643}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394B9746-8154-4944-9B00-76AEF246A3E5}
+	EndGlobalSection
+EndGlobal

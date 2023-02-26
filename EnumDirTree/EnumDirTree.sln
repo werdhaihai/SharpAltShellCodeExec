@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDirTree", "EnumDirTree\EnumDirTree.csproj", "{73F67A0D-56BF-4A5D-9B72-52E3776E772D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Debug|x64.ActiveCfg = Debug|x64
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Debug|x64.Build.0 = Debug|x64
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Release|x64.ActiveCfg = Release|x64
+		{73F67A0D-56BF-4A5D-9B72-52E3776E772D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE372C9E-A681-4B14-9490-D28882FC48DF}
+	EndGlobalSection
+EndGlobal
